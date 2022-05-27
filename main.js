@@ -17,7 +17,7 @@ function draw() {
     background('#6C91C2');
     textSize(difference);
     fill('#FFE787');
-    text('Hi', 50, 400);
+    text("Hi", 50, 400);
 }
 
 function modelLoaded() {
